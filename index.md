@@ -21,3 +21,7 @@ title: トップページ
 <svg>
 <img src="https://git-sk.github.io/top/img/test2.svg?sanitize=true" />
 </svg>
+
+<code>
+<img src="img/test2.svg?sanitize=true" />
+</code>
