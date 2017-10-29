@@ -8,7 +8,7 @@ title: トップページ
 * hoge
 * huga
 
-[![桜](test2.svg)][1]
+[![桜](test2.svg?sanitize=true)[1]
 
 [testjpg](img/test.jpg)
 
