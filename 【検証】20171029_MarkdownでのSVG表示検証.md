@@ -30,6 +30,20 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
 
 <object type="image/svg+xml" data="img/test2.svg"></object>
 
+<svg width="320" height="80" viewBox="10 90 320 80">
+  <use xlink:href="img/test2.svg" />
+</svg>
+
+<object type="svg+xml" data="img/test2.svg">
+</object>
+
+<embed src="img/test2.svg" height="100" width="100"/>
+
+<input type="image" src="img/test2.svg" height="100" width="100"/>
+
+<iframe src="img/test2.svg" height="100" width="100" style="border:none;"></iframe>
+
+
 # 参考
 
 [MarkdownファイルでのSVG読み込み方法](https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown)
