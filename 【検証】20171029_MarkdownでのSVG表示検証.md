@@ -3,11 +3,11 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
 
 ## 問題1
 
-SVGファイルがmarkdownで埋め込む方法がわからない
+SVGファイルをmarkdownで埋め込んだ際にSVGファイルに埋め込まれているxlinkのクリックが機能しない
 
 ## 対策1
 
-object属性を使用する
+HTMLのobject属性を使用する
 
 ## 問題2
 
@@ -64,3 +64,7 @@ SVGファイルのコード->xlink記載個所にtarget="_blank"を埋め込む
 [MarkdownファイルでのSVG読み込み方法](https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown)
 
 [HTML5でのSVG指定](https://qiita.com/ka215/items/f9834dca40bb3d7e9c8b)
+
+[SVG記載方法一覧](https://qiita.com/ka215/items/f9834dca40bb3d7e9c8b)
+
+[HTML->target指定一覧](http://www.tohoho-web.com/html/attr/target.htm)
