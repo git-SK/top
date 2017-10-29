@@ -34,11 +34,9 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
   <use xlink:href="img/test2.svg" />
 </svg>
 
-<a href="" style="display:inline-block;">
-<object type="svg+xml" data="img/test2.svg"></object>
-</a>
+<object type="text/html" data="img/test2.svg"></object>
 
-<embed src="img/test2.svg" height="400" width="400"/>
+<embed type="image/svg+xml" src="img/test2.svg" height="400" width="400"/>
 
 <input type="image" src="img/test2.svg" height="400" width="400"/>
 
