@@ -2,6 +2,6 @@
 
 [test](img/test.svg)
 
-[test3](img/test.png)
+[test3](img/test.jpg)
 
 [test2](img/test2.svg)
