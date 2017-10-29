@@ -19,5 +19,5 @@ title: トップページ
 ![testsvg2](https://git-sk.github.io/top/img/test2.svg?sanitize=true)
 
 <svg>
-<img src="https://git-sk.github.io/top/img/test2.svg?sanitize=true">
+<img src="https://git-sk.github.io/top/img/test2.svg?sanitize=true" />
 </svg>
