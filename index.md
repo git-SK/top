@@ -8,4 +8,4 @@ title: トップページ
 * hoge
 * huga
 
-<svg><use width="100%" height="100%" xlink:href="img/test5.svg" /></svg>
+<div style="width: 64px; height: 64px; background-image: url("img/test5.svg"); background-size: 100% 100%; background-repeat: no-repeat;"></div>
