@@ -12,7 +12,7 @@ title: トップページ
 
 [testjpg](img/test.jpg)
 
-[testhtml](img/test3.html)
+![testhtml](img/test3.html)
 
 [testpdf](img/test.pdf)
 
