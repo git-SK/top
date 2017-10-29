@@ -37,11 +37,11 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
 <object type="svg+xml" data="img/test2.svg">
 </object>
 
-<embed src="img/test2.svg" height="100" width="100"/>
+<embed src="img/test2.svg" height="400" width="400"/>
 
-<input type="image" src="img/test2.svg" height="100" width="100"/>
+<input type="image" src="img/test2.svg" height="400" width="400"/>
 
-<iframe src="img/test2.svg" height="100" width="100" style="border:none;"></iframe>
+<iframe src="img/test2.svg" height="400" width="400" style="border:none;"></iframe>
 
 
 # 参考
