@@ -1,23 +1,23 @@
 # 概要
 SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクされなかった為、リンクされる方法を検証
 
-# 問題1
+## 問題1
 
 SVGファイルがmarkdownで埋め込む方法がわからない
 
-# 対策1
+## 対策1
 
 object属性を使用する
 
-# 問題2
+## 問題2
 
 表示されたSVGファイルに埋め込まれているxlinkがobject属性を使用した場合、同一ページにリンク先が表示されてしまう(新しいページに遷移させたい)
 
-# 対策2
+## 対策2
 
 SVGファイルのコード->xlink記載個所にtarget="_blank"を埋め込む
 
-# 検証一覧
+## 検証一覧
 
 様々な書き方でSVGファイルに埋め込まれているxlinkが使える記載方法を検証
 
@@ -59,7 +59,7 @@ SVGファイルのコード->xlink記載個所にtarget="_blank"を埋め込む
 <iframe src="img/test2.svg" height="400" width="400" style="border:none;"></iframe>
 
 
-# 参考
+## 参考
 
 [MarkdownファイルでのSVG読み込み方法](https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown)
 
