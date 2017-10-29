@@ -29,3 +29,8 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
 <div style="width:32px; height:32px; background-image:url(img/test2.svg); background-size:100%;"></div>
 
 <object type="image/svg+xml" data="img/test2.svg"></object>
+
+# 参考
+
+[MarkdownファイルでのSVG読み込み方法](https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown)
+[HTML5でのSVG指定](https://qiita.com/ka215/items/f9834dca40bb3d7e9c8b)
