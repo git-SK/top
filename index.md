@@ -8,4 +8,4 @@ title: トップページ
 * hoge
 * huga
 
-
+<object type="image/svg+xml" data="img/test.svg"></object>
