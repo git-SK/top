@@ -33,4 +33,5 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
 # 参考
 
 [MarkdownファイルでのSVG読み込み方法](https://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown)
+
 [HTML5でのSVG指定](https://qiita.com/ka215/items/f9834dca40bb3d7e9c8b)
