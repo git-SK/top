@@ -31,4 +31,4 @@ title: トップページ
 
 <div style="width:32px; height:32px; background-image:url(img/test2.svg); background-size:100%;"></div>
 
-<object type="image/svg+xml" data="img/test2.svg" width="256" height="256"></object>
+<object type="image/svg+xml" data="img/test2.svg"></object>
