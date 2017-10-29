@@ -28,7 +28,9 @@ SVGファイルの埋め込みリンクがMarkdownのimg記法だとリンクさ
 
 <div style="width:32px; height:32px; background-image:url(img/test2.svg); background-size:100%;"></div>
 
+<a href="" target="_blank">
 <object type="image/svg+xml" data="img/test2.svg" width="100%" height="100%"></object>
+</a>
 
 <svg width="320" height="80" viewBox="10 90 320 80">
   <use xlink:href="img/test2.svg" />
