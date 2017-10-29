@@ -8,4 +8,6 @@ title: トップページ
 * hoge
 * huga
 
-<iframe src="img/test2.svg" width="100%" height="100%"></iframe>
+<svg width="320" height="80" viewBox="10 90 320 80">
+  <use xlink:href="img/test2.svg" />
+</svg>
